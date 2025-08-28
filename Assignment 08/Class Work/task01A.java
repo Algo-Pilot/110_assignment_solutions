@@ -1,4 +1,4 @@
-public class task1 {
+public class task1A {
     public static void main(String [] args){
         evenChecker(11);
     }
