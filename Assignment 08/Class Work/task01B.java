@@ -1,4 +1,4 @@
-public class task1B {
+public class task01B {
     public static void main(String [] args){
         boolean result = isEven(10);
         System.out.println( result );
